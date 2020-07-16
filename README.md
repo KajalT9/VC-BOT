@@ -36,7 +36,7 @@ A servo motor is an electrical device which can push or rotate an object with gr
 # Circuit Diagram
 This is a pictorial represnetaion of the excat connections done in the BOT.
 ![](circuitdiagram.jpeg)
-# Technologies used
+# Technologies used:
   ### Arduino UNO IDE
   ### Embedded C
 # Useful links:
@@ -46,6 +46,7 @@ This is a pictorial represnetaion of the excat connections done in the BOT.
   (one can also make there your own app to run this BOT).
   ### Adafruit Motor Shield library
   ### Link:https://www.arduinolibraries.info/libraries/adafruit-motor-shield-library
+  # Conclusion:
 ## This voice controlled BOT tends to have lot of real life application in the Medical and military feild. Not only that it can be used in various organistaions for day to day   small purposes and in our houses as a pet.
    
  
