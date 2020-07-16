@@ -6,5 +6,5 @@ making it move left ,right ,in reverse , forward and so on, controlling the bot 
 phone makes it helpful and progressed as far as automation.Its a straightforward 
 application where the android phone is utilized as the transmitting gadget and the 
 bluetooth module mounted on the BOT is utilized as the collector.
-![](botfront.jpeg)
+![](botfront.jpg)
 
