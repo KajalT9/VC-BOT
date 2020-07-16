@@ -8,4 +8,28 @@ phone makes it helpful and progressed as far as automation.Its a straightforward
 application where the android phone is utilized as the transmitting gadget and the 
 bluetooth module mounted on the BOT is utilized as the collector.
 ![](Botfront.jpeg) ![](Botzoom.jpeg) ![](Botside.jpeg)
-
+# Hardware used:
+## Arduino UNO
+Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator (CSTCE16M0V53-R0), a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
+![](arduino_uno_large.png)
+## Arduino Motor shield 
+The Adafruit Motor Shield is a great and quick way to control DC motors, servos or even stepper motors. It has the capability of controlling up to 2 stepper motors, 4 DC motors. and 2 servos.
+![](Adafuit Motor driver.jpg)
+## HC-05 Bluetooth Module
+HC-05 Bluetooth Module is a simple Wireless Communication device based on the Bluetooth Protocol. 
+Bluetooth Communication is a 2.4GHz frequency based RF Communication with a range of approximately 10 meters. It is one of the most popular and most frequently used low range communication for data transfer, audio systems, handsfree, computer peripherals etc.
+The HC-05 Module supports for UART, USB as well as SPI communication and depending on the application, necessary pins can be used. 
+![](HC-05 Bluetooth module.png)
+## Ultrasonic sensor
+As the name indicates, ultrasonic sensors measure distance by using ultrasonic waves. The sensor head emits an ultrasonic wave and receives the wave reflected back from the target. Ultrasonic Sensors measure the distance to the target by measuring the time between the emission and reception.
+![](ultrasonic sensors.jpeg)
+## Servo motor
+A servo motor is an electrical device which can push or rotate an object with great precision. If you want to rotate and object at some specific angles or distance, then you use servo motor. It is just made up of simple motor which run through servo mechanism.
+![](Servo motor.jpeg)
+# Additional components:
+## Car chasis
+![](Car-chasis1.jpeg)
+## Gear motor
+![](gear motor.jpg)
+## 12 v Lithium Battery
+![](12v Lithium Battery.jpeg)
