@@ -35,14 +35,14 @@ A servo motor is an electrical device which can push or rotate an object with gr
 ![](12vLithiumBattery.jpeg)
 # Circuit Diagram
 This is a pictorial represnetaion of the excat connections done in the BOT.
-![](circuitdiagram.jpeg
+![](circuitdiagram.jpeg)
 # Technologies used
   ## Arduino UNO IDE
   ## Embedded C
 # Useful link:
   ## AMR VOICE CONTROL APP
   Uses android mobiles internal voice recognition to pass voice commands to your robot. Pairs with Bluetooth Serial Modules and sends in the recognized voice as a string. 
-   Link: https://play.google.com/store/apps/details?id=robotspace.simplelabs.amr_voice&hl=en
+  # Link: https://play.google.com/store/apps/details?id=robotspace.simplelabs.amr_voice&hl=en
    (one can also make there your own app to run this BOT).
  
 
