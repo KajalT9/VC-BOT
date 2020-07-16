@@ -19,7 +19,7 @@ The Adafruit Motor Shield is a great and quick way to control DC motors, servos 
 HC-05 Bluetooth Module is a simple Wireless Communication device based on the Bluetooth Protocol. 
 Bluetooth Communication is a 2.4GHz frequency based RF Communication with a range of approximately 10 meters. It is one of the most popular and most frequently used low range communication for data transfer, audio systems, handsfree, computer peripherals etc.
 The HC-05 Module supports for UART, USB as well as SPI communication and depending on the application, necessary pins can be used. 
-![](HC-05Bluetoothmodule.png)
+![](HC05Bluetoothmodule.png)
 ## Ultrasonic sensor
 As the name indicates, ultrasonic sensors measure distance by using ultrasonic waves. The sensor head emits an ultrasonic wave and receives the wave reflected back from the target. Ultrasonic Sensors measure the distance to the target by measuring the time between the emission and reception.
 ![](ultrasonicsensors.jpeg)
@@ -37,12 +37,16 @@ A servo motor is an electrical device which can push or rotate an object with gr
 This is a pictorial represnetaion of the excat connections done in the BOT.
 ![](circuitdiagram.jpeg)
 # Technologies used
-  ## Arduino UNO IDE
-  ## Embedded C
-# Useful link:
-  ## AMR VOICE CONTROL APP
+  Arduino UNO IDE
+  Embedded C
+# Useful links:
+  ### AMR VOICE CONTROL APP
   Uses android mobiles internal voice recognition to pass voice commands to your robot. Pairs with Bluetooth Serial Modules and sends in the recognized voice as a string. 
-  # Link: https://play.google.com/store/apps/details?id=robotspace.simplelabs.amr_voice&hl=en
+  Link: https://play.google.com/store/apps/details?id=robotspace.simplelabs.amr_voice&hl=en
    (one can also make there your own app to run this BOT).
+   ### Adafruit Motor Shield library
+   Link:https://www.arduinolibraries.info/libraries/adafruit-motor-shield-library
+# This voice controlled BOT tends to have lot of real life application in the Medical and military feild. Not only that it can be used in various organistaions for day to day   small purposes and in our houses as a pet.
+   
  
 
