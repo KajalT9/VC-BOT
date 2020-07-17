@@ -39,6 +39,8 @@ This is a pictorial represnetaion of the exact conections in the BOT.(here I hav
 # Technologies used:
   ### Arduino UNO IDE
   ### Embedded C
+#Working prototype:
+  ### Link:https://youtu.be/n5clpXIrkrw
 # Useful links:
   ### AMR Voice control app
   Uses android mobiles internal voice recognition to pass voice commands to your robot. Pairs with Bluetooth Serial Modules and sends in the recognized voice as a string. 
