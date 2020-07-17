@@ -39,7 +39,7 @@ This is a pictorial represnetaion of the exact conections in the BOT.(here I hav
 # Technologies used:
   ### Arduino UNO IDE
   ### Embedded C
-#Working prototype:
+# Working prototype:
   ### Link:https://youtu.be/n5clpXIrkrw
 # Useful links:
   ### AMR Voice control app
