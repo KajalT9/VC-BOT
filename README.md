@@ -49,7 +49,7 @@ This is a pictorial represnetaion of the exact conections in the BOT.(here I hav
   ### Adafruit Motor Shield library
   #### Link:https://www.arduinolibraries.info/libraries/adafruit-motor-shield-library
   # Conclusion:
-## This voice controlled BOT tends to have lot of real life application in the Medical and military feild. Not only that it can be used in various organistations for day to day   small purposes and in our houses as a pet.
+This voice controlled BOT tends to have lot of real life application in the Medical and military feild. Not only that it can be used in various organistations for day to day   small purposes and in our houses as a pet.
    
  
 
