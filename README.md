@@ -37,8 +37,8 @@ A servo motor is an electrical device which can push or rotate an object with gr
 This is a pictorial represnetaion of the exact conections in the BOT.(here I have used 12v battery for proper functioning of the bot)
 ![](circuitdiagram.jpeg)
 # Technologies used:
-  ### Arduino UNO IDE
-  ### Embedded C
+  Arduino UNO IDE
+  Embedded C
 # Working prototype:
   ### Link:https://youtu.be/n5clpXIrkrw
 # Useful links:
